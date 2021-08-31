@@ -1,15 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+After Clone:
+  bundle
+  yarn install
+  rails dev:setup
+  
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version '2.7.3'
+* Rails version '5.2.6'
 
 * System dependencies
 
-* Configuration
+* Configuration:
+*   rails dev:setup
 
 * Database creation
 

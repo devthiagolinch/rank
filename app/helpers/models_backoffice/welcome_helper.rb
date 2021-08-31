@@ -1,0 +1,2 @@
+module ModelsBackoffice::WelcomeHelper
+end

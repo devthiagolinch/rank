@@ -1,5 +1,19 @@
 {
   "name": "rank",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "4.6.0",
+    "chart.js": "2.9.4",
+    "datatables.net-bs4": "1.10.24",
+    "jquery": "3.6.0",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devthiagolinch/rank.git",
+  "author": "Thiago Linch <dev.thiagolinch@gmail.com>",
+  "license": "MIT"
 }
